@@ -35,7 +35,7 @@ div.container{
     flex-direction: column;
     align-items: center;
     margin-bottom: 20px;
-    background: url(../assets/img/weather.png);
+    background: url(../img/weather.png);
     opacity: 0.8;
 
 }
