@@ -5,9 +5,11 @@ body {
     background: linear-gradient(#007BFF, lightblue);
 
 }
+
 div.container{
     margin-top: 7%
 }
+
 .container {
     max-width: 80%;
     margin: 0 auto;
@@ -23,15 +25,17 @@ div.container{
     width: 100%;
     text-align: center;
 }
+
 .search-section h1:hover{
     color: black;
 }
+
 .search-section {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 20px;
-    background: url(/assets/img/weather.png);
+    background: url(../assets/img/weather.png);
     opacity: 0.8;
 
 }
@@ -69,6 +73,7 @@ div.container{
     border: none;
     cursor: pointer;
 }
+
 #history button:hover {
     background: url(/assets/img/weather.png);
 }
@@ -90,6 +95,7 @@ div.container{
     background: linear-gradient(lightblue, #2f93ff);
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
+
 footer{
     background: url(/assets/img/weather.png);
     color:white;
@@ -98,6 +104,7 @@ footer{
     opacity: 80%;
     margin-top: 17%;
   }
+
   footer:hover{
     color: black;
   }
