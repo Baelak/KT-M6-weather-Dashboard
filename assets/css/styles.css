@@ -24,7 +24,6 @@ div.container{
     text-align: center;
 }
 .search-section h1:hover{
-    background: linear-gradient(:Georgia);
     color: black;
 }
 .search-section {
@@ -32,7 +31,7 @@ div.container{
     flex-direction: column;
     align-items: center;
     margin-bottom: 20px;
-    background-image: url(/assets/img/weather.jpg);
+    background: url(/assets/img/weather.jpg);
     opacity: 0.8;
 
 }
