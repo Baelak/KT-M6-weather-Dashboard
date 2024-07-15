@@ -35,7 +35,7 @@ div.container{
     flex-direction: column;
     align-items: center;
     margin-bottom: 20px;
-    background: url(/img/weather.png);
+    background: url(../img/weather.png);
     opacity: 0.8;
 
 }
@@ -75,7 +75,7 @@ div.container{
 }
 
 #history button:hover {
-    background: url(/assets/img/weather.png);
+    background: url(../img/weather.png);
 }
 
 .current-weather {
@@ -97,7 +97,7 @@ div.container{
 }
 
 footer{
-    background: url(/assets/img/weather.png);
+    background: url(../img/weather.png);
     color:white;
     font-weight: bolder;
     text-align: center;
